@@ -1,1 +1,1 @@
-{"extends":"./tsconfig.json","compilerOptions":{"noEmit":false,"declaration":true,"emitDeclarationOnly":true,"outDir":"dist-types","isolatedModules":false},"include":["src/module/index.ts","src/components/**/*.tsx","src/domain/**/*.ts","module.manifest.ts"]}
+{"extends":"./tsconfig.json","compilerOptions":{"noEmit":false,"declaration":true,"emitDeclarationOnly":true,"outDir":"dist-types","isolatedModules":false},"include":["src/vite-env.d.ts","src/module/index.ts","src/components/**/*.tsx","src/domain/**/*.ts","module.manifest.ts"]}
