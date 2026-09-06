@@ -1,3 +1,5 @@
+import '../styles.css';
+
 export { moduleManifest } from '../../module.manifest';
 export { DelegationWorkspace, type DelegationWorkspaceProps } from '../components/DelegationWorkspace';
 export { TinyDelegationRepository, TINY_DELEGATION_STORAGE_KEY } from '../domain/repository';
